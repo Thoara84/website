@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { ArrowRight, Linkedin } from 'lucide-react';
 import { motion } from 'framer-motion';
-import Navbar from '../components/Navbar';
+import Navbar from '../components/ui/Navbar';
 import { Button } from '../components/ui/button';
 import { Card, CardContent } from '../components/ui/card';
 
