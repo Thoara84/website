@@ -2,7 +2,7 @@
   "name": "my-portfolio",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://deinName.github.io/portfolio-seite",
+  "homepage": "https://deinName.github.io/website",
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
