@@ -5,7 +5,7 @@
   "homepage": "https://thoara84.github.io/website/",
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export",
+    "build": "next build",
     "start": "next start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d out"
